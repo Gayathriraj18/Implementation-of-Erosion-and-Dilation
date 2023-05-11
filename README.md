@@ -68,15 +68,15 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 
-### Display the input Image
+### Display the input Image :
 
 ![d10 1](https://github.com/Gayathriraj18/Implementation-of-Erosion-and-Dilation/assets/94154854/53cc4fb3-6a63-4344-a2a4-1de053e811e6)
 
-### Display the Eroded Image
+### Display the Eroded Image :
 
 ![d10 2](https://github.com/Gayathriraj18/Implementation-of-Erosion-and-Dilation/assets/94154854/ee94ef28-8862-45f7-9a1c-fefbbed1ac0b)
 
-### Display the Dilated Image
+### Display the Dilated Image :
 
 ![d10 3](https://github.com/Gayathriraj18/Implementation-of-Erosion-and-Dilation/assets/94154854/629ef6da-a083-48b2-bbfa-cc874dfa2a5f)
 
